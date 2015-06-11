@@ -1,0 +1,221 @@
+﻿ul, ol, dl, li
+{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+td, input, textarea, select, button
+{
+	font-size: 12px;
+}
+.hidden
+{
+	display: none;
+}
+img
+{
+	border: 0;
+}
+a
+{
+	color: #4B4B4B;
+	text-decoration: none;
+}
+a:hover
+{
+	color: #BA1313;
+	text-decoration: underline;
+}
+
+p
+{
+	margin: 1em 0;
+}
+.menu_bac
+{
+	float: left;
+	clear: both;
+	width: 100%;
+	min-height: 31px;
+	height: auto !important;
+	height: 31px;
+	overflow: visible;
+	background: url(../images/sip.jpg) repeat-x top;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	cursor: pointer;
+	margin-top: 0px;
+	_margin-top: 0px;
+}
+
+.menuTitle
+{
+	height: 23px;
+	line-height: 23px;
+	_line-height: 21px;
+	padding-top: 8px;
+	overflow: hidden;
+	background: url(../images/bac_on.jpg) no-repeat;
+	_background: url(../images/bac_on.jpg) no-repeat 17px 0;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	cursor: pointer;
+	text-align: left;
+	padding-left: 36px;
+	_text-indent: 1.6em;
+}
+.menuTitle1
+{
+	height: 23px;
+	line-height: 23px;
+	_line-height: 21px;
+	padding-top: 8px;
+	overflow: hidden;
+	background: url(../images/bac_off.jpg) no-repeat;
+	_background: url(../images/bac_on.jpg) no-repeat 17px 0;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000;
+	cursor: pointer;
+	text-align: left;
+	padding-left: 36px;
+	_text-indent: 1.6em;
+}
+.activeTitle
+{
+	height: 23px;
+	line-height: 23px;
+	_line-height: 21px;
+	padding-top: 8px;
+	overflow: hidden;
+	background: url(../images/bac_on.jpg) no-repeat;
+	_background: url(../images/bac_on.jpg) no-repeat 17px 0;
+	font-size: 12px;
+	font-weight: bold;
+	cursor: pointer;
+	text-align: left;
+	padding-left: 36px;
+	color: #000000;
+	_text-indent: 1.6em;
+}
+.menuContent
+{
+	width: 100%;
+	background: #F9F9F9;
+	text-align: left;
+	display: none;
+	height: auto;
+	padding-top: 5px;
+	_padding-left: 17px;
+	padding-bottom: 5px;
+	line-height: 23px;
+}
+*html .menuContent
+{
+	line-height: 17px;
+}
+.menuContent li
+{
+	line-height: 20px;
+}
+*html .menuContent li
+{
+	line-hegiht: 17px;
+}
+.menuContent li a
+{
+	color: #888;
+}
+.menuContent li a:hover
+{
+	color: #D40000;
+}
+
+.this_on
+{
+	float: left;
+	width: 96px;
+	height: 21px;
+	text-align: center;
+	cursor: hand;
+	cursor: pointer;
+	background: url(../images/back.jpg) no-repeat 0px -836px;
+	color: #fff;
+}
+.treescss
+{
+	padding-left: 25px;
+}
+
+body
+{
+	font: 12px/20px "微软雅黑" , "宋体" , Arial, sans-serif, Verdana, Tahoma;
+	padding: 0;
+	margin: 0;
+}
+a:link
+{
+	text-decoration: none;
+}
+a:visited
+{
+	text-decoration: none;
+}
+a:hover
+{
+	text-decoration: underline;
+}
+a:active
+{
+	text-decoration: none;
+}
+.cs-north
+{
+	height: 60px;
+}
+.cs-north-bg
+{
+	width: 100%;
+	height: 100%;
+}
+.cs-north-logo
+{
+	height: 40px;
+	margin: 15px 0px 0px 5px;
+	display: inline-block;
+	color: #000000;
+	font-size: 22px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.cs-west
+{
+	width: 200px;
+	padding: 0px;
+}
+.cs-south
+{
+	height: 25px;
+	padding: 0px;
+	text-align: center;
+}
+.cs-navi-tab
+{
+	padding: 5px;
+}
+.cs-tab-menu
+{
+	width: 120px;
+}
+.cs-home-remark
+{
+	padding: 10px;
+}
+.wrapper
+{
+	float: right;
+	height: 30px;
+	margin-left: 10px;
+}

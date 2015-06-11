@@ -1,0 +1,5 @@
+[appid:wx6352ae3cc1bf1fc2,appsecret:33f48c7aa1d1762f5351dcded5dac67e]
+[access_token:VXMud5_1N6vveUv2XTuvETNamx1FDl9NNOTEQ6APKGQ6fZRZkoDPUA17Dx2EYqoHMAnA892Rpb-jvfM45PF96077fLFPLRbDjBVdhdhGpEoor_FYyMRHZgb9McYoVSgPnV3JRtvLcdVeg3yOTs05wA]
+[deleteresult:{"errcode":0,"errmsg":"ok"}]
+{"button":[{"name":"游戏资讯"},{"name":"互动活动"}]}
+[setnewresult:{"errcode":40017,"errmsg":"invalid button type"}]

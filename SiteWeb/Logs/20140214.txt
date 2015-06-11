@@ -1,0 +1,2 @@
+[2014-02-14 11:51:35][/HttpHandler/RegisterHandler.ashx][172.16.113.9]:在 ServiceModel 客户端配置部分中，找不到引用协定“WsReg.RegisterServiceSoap”的默认终结点元素。这可能是因为未找到应用程序的配置文件，或者是因为客户端元素中找不到与此协定匹配的终结点元素。,Method:RegisterHelper
+[2014-02-14 11:51:35][/HttpHandler/RegisterHandler.ashx][172.16.113.9]:快速注册接口提交时异常：未将对象引用设置到对象的实例。

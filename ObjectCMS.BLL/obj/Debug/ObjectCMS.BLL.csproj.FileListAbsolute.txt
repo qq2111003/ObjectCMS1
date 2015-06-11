@@ -1,0 +1,59 @@
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\obj\Debug\ResolveAssemblyReference.cache
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\log4net.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\Microsoft.Practices.Unity.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\project\ObjectCMS\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.dll
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\ObjectCMS.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.csprojResolveAssemblyReference.cache
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.BLL.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DAL.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Model.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.DataAccess.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\bin\Debug\ObjectCMS.Common.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.csprojResolveAssemblyReference.cache
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.BLL\obj\Debug\ObjectCMS.BLL.pdb

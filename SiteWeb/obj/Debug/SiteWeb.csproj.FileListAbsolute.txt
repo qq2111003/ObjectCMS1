@@ -1,0 +1,89 @@
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\SiteWeb.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\SiteWeb.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\obj\Debug\ResolveAssemblyReference.cache
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\obj\Debug\SiteWeb.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\obj\Debug\SiteWeb.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.BLL.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.DAL.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.DataAccess.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.Model.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\log4net.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.BLL.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.DAL.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.DataAccess.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.Model.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\Microsoft.Practices.ServiceLocation.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\Microsoft.Practices.Unity.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\SiteWeb\bin\Microsoft.Practices.Unity.Interception.dll
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.Common.dll
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\SiteWeb\bin\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\SiteWeb\bin\SiteWeb.dll
+F:\project\ObjectCMS\SiteWeb\bin\SiteWeb.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.BLL.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.Common.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.DAL.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.DataAccess.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.Model.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.BLL.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.DAL.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.DataAccess.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.Model.pdb
+F:\project\ObjectCMS\SiteWeb\obj\Debug\ResolveAssemblyReference.cache
+F:\project\ObjectCMS\SiteWeb\obj\Debug\SiteWeb.dll
+F:\project\ObjectCMS\SiteWeb\obj\Debug\SiteWeb.pdb
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.TemplateEngine.dll
+F:\project\ObjectCMS\SiteWeb\bin\ObjectCMS.TemplateEngine.pdb
+F:\project\ObjectCMS\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\project\ObjectCMS\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\project\ObjectCMS\SiteWeb\bin\Microsoft.Practices.ServiceLocation.dll
+F:\project\ObjectCMS\SiteWeb\bin\Microsoft.Practices.Unity.dll
+F:\project\ObjectCMS\SiteWeb\bin\Microsoft.Practices.Unity.Interception.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.dll.config
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.BLL.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Common.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DAL.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DataAccess.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Model.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.TemplateEngine.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.ServiceLocation.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.Unity.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.Unity.Interception.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.BLL.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Common.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DAL.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DataAccess.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Model.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.TemplateEngine.pdb
+F:\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.csprojResolveAssemblyReference.cache
+F:\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.dll
+F:\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.dll.config
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\SiteWeb.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.BLL.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Common.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DAL.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DataAccess.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Model.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.TemplateEngine.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.ServiceLocation.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.Unity.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\Microsoft.Practices.Unity.Interception.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.BLL.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Common.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DAL.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.DataAccess.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.Model.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\bin\ObjectCMS.TemplateEngine.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.csprojResolveAssemblyReference.cache
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\SiteWeb\obj\Debug\SiteWeb.pdb

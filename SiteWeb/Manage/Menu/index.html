@@ -1,0 +1,36 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="../plugin/kindeditor/themes/default/default.css" rel="stylesheet" />
+    <script src="../js/jquery-1.6.2.min.js"></script>
+    <script src="../plugin/kindeditor/kindeditor-min.js"></script>
+    <script src="../plugin/kindeditor/lang/zh_CN.js"></script>
+</head>
+<body>
+    <input type="text" id="tbImageUrl" /><input type="button" id="impupload" value="btn" />
+
+    <script type="text/javascript">
+        KindEditor.ready(function (K) {
+            var editor = K.editor({
+                allowFileManager: true
+            });
+            K('#impupload').click(function () {
+                editor.loadPlugin('multiimage', function () {
+                    editor.plugin.multiImageDialog({
+                        clickFn: function (urlList) {
+                            //var div = K('#tbImageUrl');
+                            //div.html('');
+                            //K.each(urlList, function (i, data) {
+                            //    div.append('<img src="' + data.url + '">');
+                            //});
+                            editor.hideDialog();
+                        }
+                    });
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCenter.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCenter.DataAccess\bin\Debug\ObjectCenter.DataAccess.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCenter.DataAccess\bin\Debug\ObjectCenter.DataAccess.pdb
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCenter.DataAccess\obj\Debug\ObjectCenter.DataAccess.dll
+d:\backup\我的文档\visual studio 2010\Projects\ObjectCMS\ObjectCenter.DataAccess\obj\Debug\ObjectCenter.DataAccess.pdb

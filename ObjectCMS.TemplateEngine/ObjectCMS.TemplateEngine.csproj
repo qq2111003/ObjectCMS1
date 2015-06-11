@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA2EE997-68EA-4844-99EC-7B3822D64961}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ObjectCMS.TemplateEngine</RootNamespace>
+    <AssemblyName>ObjectCMS.TemplateEngine</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuildNode.cs" />
+    <Compile Include="Common\ParamController.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Core\lDetail.cs" />
+    <Compile Include="Core\lFor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Core\lif.cs" />
+    <Compile Include="Core\lInclude.cs" />
+    <Compile Include="Core\lLabelHelper.cs" />
+    <Compile Include="Core\lMath.cs" />
+    <Compile Include="Core\lModelData.cs" />
+    <Compile Include="Core\lPage.cs" />
+    <Compile Include="Core\lParam.cs" />
+    <Compile Include="Core\lPrevNext.cs" />
+    <Compile Include="Core\lSys.cs" />
+    <Compile Include="Core\TemplateHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ObjectCMS.BLL\ObjectCMS.BLL.csproj">
+      <Project>{57EE796D-D5D6-4E89-BD9D-41EBA29D852F}</Project>
+      <Name>ObjectCMS.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectCMS.Common\ObjectCMS.Common.csproj">
+      <Project>{0D11ABF4-0EE5-454D-AB96-CAD32C932249}</Project>
+      <Name>ObjectCMS.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectCMS.Model\ObjectCMS.Model.csproj">
+      <Project>{4572D2C1-AC46-4EED-8BAD-18545C1788CA}</Project>
+      <Name>ObjectCMS.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

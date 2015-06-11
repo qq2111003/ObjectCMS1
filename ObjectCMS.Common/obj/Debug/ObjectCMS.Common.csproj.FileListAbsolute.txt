@@ -1,0 +1,23 @@
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.dll
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.pdb
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\ObjectCMS.Common\obj\Debug\ResolveAssemblyReference.cache
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.dll
+d:\Backup\我的文档\Visual Studio 2010\Projects\ObjectCMS\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.dll
+F:\project\ObjectCMS\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\ObjectCMS.Common\obj\Debug\ResolveAssemblyReference.cache
+F:\project\ObjectCMS\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.dll
+F:\project\ObjectCMS\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.pdb
+F:\project\ObjectCMS\ObjectCMS.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.pdb
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.csprojResolveAssemblyReference.cache
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.dll
+F:\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ObjectCMS.Common.pdb
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.csprojResolveAssemblyReference.cache
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.dll
+F:\工作目录（吴松）\test\CMS\ObjectCMS1\ObjectCMS.Common\obj\Debug\ObjectCMS.Common.pdb
